@@ -1,2 +1,7 @@
 Olá++!
+<<<<<<< HEAD
 Tchau!!
+=======
+Just a test
+Boa noite
+>>>>>>> a212ed20d87ca30effdada138ed234ca3b338251

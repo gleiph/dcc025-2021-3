@@ -1,0 +1,1 @@
+# O melhor readme de todos os tempos!
