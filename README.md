@@ -1,4 +1,4 @@
-# O melhor readme de todos os tempos!
+ O melhor readme de todos os tempos!
 
 
 <h1 align="center">
@@ -14,4 +14,4 @@ Repositório referente à melhor disciplina de Orientação a Objetos, ministrad
 
 ![a](https://wickedgoodgaming.com/wp-content/uploads/2016/07/gary-was-here-ash-is-a-loser.gif)
 
-<img src="https://www.behance.net/gallery/55389655/gif-Collection-Two/modules/326567415.gif" width="100" height="100"/>
+![a](https://media.giphy.com/media/MoYC1N4nv7Fcs/giphy.gif)
