@@ -1,10 +1,9 @@
-<<<<<<< HEAD
+
 teste  
 ola mundo 
-=======
 Testando o git
 Vou tentar fazer o commit
 teste2
 teste 3
-
->>>>>>> 54631d1d29f8610275e982fa006e0101a04b0f12
+testeultimo
+teste de novo 
