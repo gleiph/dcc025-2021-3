@@ -1,9 +1,7 @@
  O melhor readme de todos os tempos!
 
 
-<h1 align="center">
-    <b>DCC025 - Orientação a Objetos</b> 
-</h1>
+#DCC025 - Orientação a Objetos 
 
 # O melhor readme de todos os tempos!
 
