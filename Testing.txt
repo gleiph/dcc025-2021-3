@@ -1,3 +1,7 @@
 Apenas um teste
 Olá mundo!
+<<<<<<< HEAD
 Mais um teste!
+=======
+
+>>>>>>> 836522360419f9eb2c105b99ed3d872b82268457
